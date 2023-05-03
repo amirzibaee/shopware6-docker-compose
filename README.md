@@ -28,7 +28,7 @@ PMA_EXTERN_PORT=8009
 
 ## FIX Permission
 ```bash
-sudo chmod -R 777 folder/
+sudo chmod -R 777 shopware/
 ```
 
 ## FIX jwt permission
