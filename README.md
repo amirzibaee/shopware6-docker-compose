@@ -1,8 +1,10 @@
 # shopware6-docker-compose
-a docker compose for shopware 6
+a docker-compose.yml for shopware 6
 
 
 ## Sample docker environment for shopware 6
+This is a sample docker environment for shopware 6. It contains a docker-compose file with a php apache container, a mysql container and a phpmyadmin container.
+
 
 ```bash
 # PHP Apache Docker
